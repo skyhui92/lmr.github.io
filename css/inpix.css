@@ -1,0 +1,14 @@
+
+
+        .icon {
+            display: inline-block;
+            width: 84px;
+            height: 84px;
+            background: url(../20190427110510799.jpg) no-repeat;
+        }
+        .icon-people {
+            background-position: -35px -123px;
+        }
+        .icon-calendar{
+            background-position: -156px -243px;
+        }
